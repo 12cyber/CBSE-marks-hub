@@ -1,0 +1,6 @@
+{
+  "name": "CBSE Marks Hub",
+  "description": "Class 10 CBSE examination patterns, subject-wise marks distribution, unit weightage, target marks calculator, and revision planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
